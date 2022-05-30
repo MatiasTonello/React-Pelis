@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  justify-content: center;
+  font-size: 1.4rem;
+  list-style: none;
+}
+
+.active {
+  color: red;
+}
+
+.noActive {
+  color: white;
+}
